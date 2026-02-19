@@ -1,0 +1,20 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.venv/
+venv/
+.env
+
+.vscode/
+.idea/
+
+# Optional: große/ lokale Daten (bitte nur, wenn du sowas im Ordner hast)
+data/
+*_out/
+*.csv
+*.xlsx
+*.parquet
+*.feather
